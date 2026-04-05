@@ -62,14 +62,14 @@ Documento de projeto criado e entendido.
 
 ---
 
-### 🔲 CP-01 — Setup do Projeto
+### ✅ CP-01 — Setup do Projeto
 Estrutura de pastas, git init, GitHub repo, CLAUDE.md com contexto do projeto.  
 **Entregável:** Repositório criado e estrutura base commitada.  
 **Ferramentas:** Claude Code no terminal
 
 ---
 
-### 🔲 CP-02 — Descoberta de Fontes de Preço
+### ✅ CP-02 — Descoberta de Fontes de Preço
 Pesquisar e testar quais sites de fornecedores de MDF/madeira permitem scraping.  
 Documentar: URL, estrutura HTML do preço, limitações.  
 **Entregável:** `docs/fontes-scraping.md` com pelo menos 2 fontes validadas.  
