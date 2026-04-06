@@ -77,7 +77,7 @@ Documentar: URL, estrutura HTML do preço, limitações.
 
 ---
 
-### 🔲 CP-03 — Módulo de Scraping
+### ✅ CP-03 — Módulo de Scraping
 Scraper funcional que recebe nome de material e retorna preço atual.  
 **Entregável:** `src/scraper.py` com testes manuais documentados.  
 **Ferramentas:** Claude Code + Antigravity
